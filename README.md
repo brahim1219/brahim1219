@@ -10,7 +10,7 @@ Software Engineer specialized in **Web Development** & **Applied AI**
 
 | Project | What it does | Stack | Live | Code |
 | --- | --- | --- | --- | --- |
-| **DocuSmart** | End-to-end document extraction (**detect → OCR → translate**) with a validation UI | **React**, **FastAPI**, Pandas, PyTorch, OpenCV, MongoDB | Demo video (FR) — coming soon  | [Repo](https://github.com/brahim1219/DocuSmart) |
+| **DocuSmart** | End-to-end document extraction (**detect → OCR → translate**) with a validation UI | **React**, **FastAPI**, Pandas, PyTorch, OpenCV, MongoDB | [YouTube demo (FR)](https://www.youtube.com/watch?v=fIxWuwy-bl4)  | [Repo](https://github.com/brahim1219/DocuSmart) |
 | **SportShare** | Sports events & challenges, real-time chat, planner, articles | **React**, Redux, **Node.js**, MongoDB, **Socket.IO**, Docker | [YouTube demo (FR)](https://www.youtube.com/watch?v=2MHQRFuO1wM&ab_channel=BrahimBenSaada) | Private |
 | **SkillMatch** | Timed MCQs + coding editor, unit-test auto-grading, recruiter dashboard | **React**, Redux, **Node.js**, MongoDB, Jest | [YouTube demo (FR)](https://www.youtube.com/watch?v=KyhlMy31U90&ab_channel=BrahimBenSaada) | [Repo](https://github.com/brahim1219/SkillMatch) |
 
